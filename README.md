@@ -1,2 +1,2 @@
 # Gitコマンド
-### git init
+## git init
